@@ -6,10 +6,12 @@ The original video game, and the one that started it all.
 Pong was created in 1958 by  William Higinbotham.
 
 # Astroids
-
+![Asteroids Image](/downloads.jfif)
 
 # Pac-Man
+![Pac-Man Image](/pacmanimg1.jfif)
 
-### [<span style="color:green">Home Page</span>](/index.md) 
+
+### [Home Page](/index.md) 
 
 
