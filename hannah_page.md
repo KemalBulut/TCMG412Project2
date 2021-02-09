@@ -11,10 +11,12 @@ The 1776 Auto Race Console
 - PSP & PS Vista
 
 #### The first handheld console with a touchscreen was released in **1997**
+the Game.com handheld produced by Tiger Electronics
 
 
-A handheld console must include a : 
-*console, screen, speakers, and a way to control*
+<div align="center"> A handheld console must include a : </div>
+*console, screen, speakers, and a way to control* 
+
 
 [Source](https://en.wikipedia.org/wiki/Handheld_game_console) <div align="center">
 
