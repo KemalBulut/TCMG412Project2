@@ -6,6 +6,6 @@
 
 #Pac-Man
 
-###[Home Page\(/index.md) 
+###[Home Page](/index.md) 
 
 
