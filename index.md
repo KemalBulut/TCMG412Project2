@@ -6,7 +6,7 @@ In this website you will learn ALL about the history of video games!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### [Arcade Consoles](/jacob_page.md) 
+### <span style="color:green"> *[Arcade Consoles](/jacob_page.md)* </span>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KemalBulut/TCMG412Project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
