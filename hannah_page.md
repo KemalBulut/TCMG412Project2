@@ -16,5 +16,5 @@ The 1776 Auto Race Console
 A handheld console must include a : 
 *console, screen, speakers, and a way to control*
 
-<div align="center"> [Source](https://en.wikipedia.org/wiki/Handheld_game_console)
+[Source](https://en.wikipedia.org/wiki/Handheld_game_console) <div align="center">
 
