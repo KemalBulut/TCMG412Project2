@@ -1,4 +1,4 @@
-### Handheld Console Video Game History
+## Handheld Console Video Game History
 
 #### The first handheld console is considered to be ...
 
@@ -14,9 +14,9 @@ The 1776 Auto Race Console
 the Game.com handheld produced by Tiger Electronics
 
 
-<div align="center"> A handheld console must include a : </div>
+#### A handheld console must include a :
 *console, screen, speakers, and a way to control* 
 
 
-[Source](https://en.wikipedia.org/wiki/Handheld_game_console) <div align="center">
+[Source](https://en.wikipedia.org/wiki/Handheld_game_console)
 
