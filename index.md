@@ -16,4 +16,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Home Consoles
 
-Having trouble with Pages? Check out our [documentation](/kemal's_page.md/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](/kemal's_page.md) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
