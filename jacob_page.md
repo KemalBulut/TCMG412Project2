@@ -10,6 +10,6 @@ Pong was created in 1958 by  William Higinbotham.
 
 # Pac-Man
 
-### [<span style="color:blue">Home Page</span>](/index.md) some *blue* text</span>.
+### [<span style="color:green">Home Page</span>](/index.md) 
 
 
