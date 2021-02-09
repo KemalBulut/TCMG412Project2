@@ -1,18 +1,17 @@
-###Handheld Console Video Game History
+### Handheld Console Video Game History
 
-###The first handheld console is considered to be ...
+#### The first handheld console is considered to be ...
 
-Syntax highlighted code block
+The 1776 Auto Race Console
 
-Header 1
-Header 2
-Header 3
-Bulleted
-List
-Numbered
-List
-Bold and Italic and Code text
+#### Some of the most significant handheld consoles of the 21st century include:
+- Nintendo DS
+- Nintendo Switch
+-
 
-Link and Image For more details see GitHub Flavored Markdown.
+#### The first handheld console with a touchscreen was released in **1997**
 
-Jekyll Themes Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
+
+A handheld console must include a : 
+*console, screen, speakers, and a way to control*
+
