@@ -1,6 +1,8 @@
 ## Arcade Era
 
 #Pong
+![Pong Image](/gettyimages-108341019.jpg)
+
 
 #Astroids
 
