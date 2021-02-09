@@ -1,7 +1,7 @@
-Welcome to VIDEO GAME HISTORY
+###Welcome to VIDEO GAME HISTORY
 In this website you will learn ALL about the history of video games!
 
-Markdown
+###Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Syntax highlighted code block
