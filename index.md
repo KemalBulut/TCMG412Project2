@@ -15,8 +15,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Learn more about arcade consoles [here](/jacob_page.md).
 
 ### [Handheld Consoles](/hannah_page.md)
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Handheld consoles really began to boom in the late 1990's and early 2000's! These light, portable, and sometimes more affortable gadgets have allowed people of all ages to take their favorite games on the go. What's your favorite handheld device?
 
 Learn more about handheld consoles [here](/hannah_page.md).
 
@@ -28,4 +27,4 @@ Learn more about home consoles [here](/andy_page.md).
 
 ### Sources
 
-https://en.wikipedia.org/wiki/Video_game#Origins
+https://en.wikipedia.org/wiki/Video_game#Origins 
