@@ -21,7 +21,7 @@ Learn more about handheld consoles [here](/hannah_page.md).
 
 ### Home Consoles
 
-I mix between arcade consoles and handheld consoles. 
+A mix between arcade consoles and handheld consoles. 
 
 Learn more about home consoles [here](/andy_page.md).
 
