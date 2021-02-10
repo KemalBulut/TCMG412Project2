@@ -10,7 +10,7 @@ This eventually led to the games we all know and love!
 
 ### Arcade Consoles
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KemalBulut/TCMG412Project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The begining of the video game industry and now a retro hobby. 
 
 Learn more about arcade consoles [here](/jacob_page.md).
 
