@@ -27,4 +27,4 @@ Learn more about home consoles [here](/andy_page.md).
 
 ### Sources
 
-https://en.wikipedia.org/wiki/Video_game#Origins
+[https://en.wikipedia.org/wiki/Video_game#Origins](https://en.wikipedia.org/wiki/Video_game#Origins)
