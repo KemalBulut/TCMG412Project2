@@ -10,7 +10,7 @@ This eventually led to the games we all know and love!
 
 ### Arcade Consoles
 
-SUMMARY GOES HERE
+The start of the video gaming industry, and now a retro hobby.
 
 Learn more about arcade consoles [here](/jacob_page.md).
 
