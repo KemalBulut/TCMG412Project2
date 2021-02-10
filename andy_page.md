@@ -24,4 +24,7 @@ The Odyssey was manufactured by Magnavox and released in North America in Septem
 - Xbox One (2013)
 - Xbox Series X/S (2020)
 
+### Defining a Home Console
+A home video game console is a predesigned piece of electronic hardware that is meant to be placed at a fixed location at one's home, connected to a display like a television screen or computer monitor, and to an external power source, to play video games on using one or more video game controllers. This differs from a handheld game console which will have a built-in screen, controller buttons/features, and a power supply like a battery or battery pack.
+
 ### [Home Page](/index.md) 
