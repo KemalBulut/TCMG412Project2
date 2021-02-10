@@ -4,7 +4,7 @@
 
 The 1976 Auto Race Console
 
-
+![Auto Race Console](/GamePic.jpg)  
 
 ## Some of the most significant handheld consoles of the 21st century include:
 - Nintendo DS
